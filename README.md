@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abraham Ashade
+#  Hello, I'm Abraham Ashade
 
 ![Profile Picture](https://github.com/Abr9h9m/Abr9h9m.github.io/blob/main/Personal%20Updated%20Headshot%20.jpg?raw=true)
 
