@@ -14,9 +14,10 @@
     }
     body {
       font-family: 'Roboto', sans-serif;
-      background-color: #121212;
+      background-color: #0d0d0d;
       color: #e0e0e0;
       line-height: 1.6;
+      scroll-behavior: smooth;
     }
     a {
       color: #1e90ff;
@@ -29,9 +30,9 @@
       max-width: 900px;
       margin: 2rem auto;
       padding: 2rem;
-      background-color: #1e1e1e;
+      background-color: #1b1b1b;
       border-radius: 15px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.7);
     }
     h1, h2 {
       color: #ffffff;
@@ -39,6 +40,12 @@
     h1 {
       font-size: 3rem;
       margin-bottom: 0.5rem;
+      text-shadow: 0 0 5px #1e90ff, 0 0 10px #1e90ff, 0 0 20px #1e90ff;
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+    @keyframes glow {
+      from { text-shadow: 0 0 5px #1e90ff, 0 0 10px #1e90ff, 0 0 20px #1e90ff; }
+      to { text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff; }
     }
     h2 {
       margin-bottom: 1rem;
@@ -57,15 +64,21 @@
     header {
       text-align: center;
       padding: 3rem 1rem;
-      background-color: #000000;
+      background-color: #0a0a0a;
+      position: relative;
     }
     .profile-pic {
-      width: 150px;
-      height: 150px;
+      width: 160px;
+      height: 160px;
       border-radius: 50%;
       border: 4px solid #1e90ff;
       margin: 0 auto 1rem;
       object-fit: cover;
+      transition: transform 0.3s;
+    }
+    .profile-pic:hover {
+      transform: scale(1.1) rotate(5deg);
+      box-shadow: 0 0 20px #1e90ff;
     }
     header p {
       font-size: 1.2rem;
@@ -92,11 +105,31 @@
       border-radius: 10px;
     }
 
+    /* Buttons */
+    .social-buttons {
+      margin-top: 1rem;
+    }
+    .social-buttons a {
+      display: inline-block;
+      margin: 0 10px;
+      padding: 10px 20px;
+      border: 2px solid #1e90ff;
+      border-radius: 30px;
+      color: #1e90ff;
+      font-weight: bold;
+      transition: all 0.3s;
+    }
+    .social-buttons a:hover {
+      background-color: #1e90ff;
+      color: #0d0d0d;
+      box-shadow: 0 0 15px #1e90ff;
+    }
+
     /* Footer */
     footer {
       text-align: center;
       padding: 1rem;
-      background-color: #000000;
+      background-color: #0a0a0a;
       color: #888;
       margin-top: 2rem;
     }
@@ -105,10 +138,15 @@
 <body>
 
 <header>
-  <!-- Replace src with your image path -->
+  <!-- Replace src="profile.jpg" with your actual photo path -->
   <img src="profile.jpg" alt="Abraham Ashade" class="profile-pic">
   <h1>👋 Hi, I'm Abraham Ashade</h1>
   <p>Computer Science Major | Data Science Concentration | Cybersecurity Enthusiast</p>
+  <div class="social-buttons">
+    <a href="https://github.com/USERNAME" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+    <a href="mailto:youremail@example.com">Email</a>
+  </div>
 </header>
 
 <section>
@@ -158,15 +196,6 @@
     <li>Data science workflows</li>
     <li>Secure coding practices</li>
     <li>Cloud technologies</li>
-  </ul>
-</section>
-
-<section>
-  <h2>📫 Connect With Me</h2>
-  <ul>
-    <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">yourprofile</a></li>
-    <li>GitHub: <a href="https://github.com/USERNAME" target="_blank">USERNAME</a></li>
   </ul>
 </section>
 
