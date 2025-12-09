@@ -3,12 +3,13 @@
 ![Profile Picture](https://github.com/Abr9h9m/Abr9h9m.github.io/blob/main/Personal%20Updated%20Headshot%20.jpg?raw=true)
 
 ## 🚀 About Me
-I’m a second-year **Computer Science student** passionate about building tools, solving problems, and creating systems that deliver real value. I enjoy transforming complex requirements into **clean, scalable, and efficient code**.
+I’m a second-year **Computer Science student** that is passionate about building technological tools, solving problems, and creating systems that deliver real life value. I enjoy learning and exploring new things that innovates the world into **clean, scalable, and efficient space**.
 
-- 🎓 Sophomore at Elizabeth City State University
+- 🎓 Sophomore at Elizabeth City State University NC
 - 💻 Interests: Software Development, Data Science, Cybersecurity
 - ⚡ Quick learner with sharp attention to detail
 - 🤝 Experienced working with teams via Peer Forward, ROTC, SGA, and group project.
+- 😎 Multilingaul
 
 ## 🛠️ Tech Exp
 **Languages:** Python • Java • HTML • CSS  
@@ -19,7 +20,7 @@ I’m a second-year **Computer Science student** passionate about building tools
 
 ## 📚 Highlighted Projects
 - **Mobile App Development Group Project** – Collaborative project designing, coding, and testing a fully functional mobile app with focus on system requirements and user experience.  
-- **Information Systems Course Projects** – Hands-on systems development and analysis, including networking, enterprise systems, decision support, and business IT design.  
+- ****Completed Networking Courses **** – Hands-on systems development and analysis, including networking, enterprise systems, decision support, and IT design.  
 
 
 ---
