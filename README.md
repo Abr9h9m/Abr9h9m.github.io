@@ -31,8 +31,7 @@ I’m a second-year **Computer Science student** passionate about building tools
   
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/abraham-ashade-67bb1b230/) • [GitHub](https://github.com/Abr9h9m) • [Email](Ashmark.abra@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/abraham-ashade-67bb1b230/) • [GitHub](https://github.com/Abr9h9m) 
 ---
 
 *Thank you for visiting my GitHub portfolio!*  
