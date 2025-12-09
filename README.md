@@ -21,7 +21,6 @@ I’m a second-year **Computer Science student** passionate about building tools
 - **Mobile App Development Group Project** – Collaborative project designing, coding, and testing a fully functional mobile app with focus on system requirements and user experience.  
 - **Information Systems Course Projects** – Hands-on systems development and analysis, including networking, enterprise systems, decision support, and business IT design.  
 
-*(Add links to your GitHub repositories here)*
 
 ---
 
