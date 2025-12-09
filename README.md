@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Abraham Ashade
 
-![Profile Picture](<img width="1773" height="2216" alt="image" src="https://github.com/user-attachments/assets/1ed9993a-4956-49f2-9224-68c81244c676" />
-)
+![Profile Picture](https://github.com/681a8cd0-4703-489a-ade5-f5d203b6e6f2?raw=true)
 
 ## 🚀 About Me
 I’m a second-year **Computer Science student** passionate about building tools, solving problems, and creating systems that deliver real value. I enjoy transforming complex requirements into **clean, scalable, and efficient code**.
