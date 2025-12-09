@@ -4,44 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Abraham Ashade | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
+    /* General Styles */
+    * {
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
+      box-sizing: border-box;
     }
-    header {
-      background-color: #1e1e2f;
-      color: #fff;
-      padding: 2rem 0;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0.5rem 0;
-      font-size: 2.5rem;
-    }
-    header p {
-      font-size: 1.2rem;
-      color: #ccc;
-    }
-    section {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem 2rem;
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #1e1e2f;
-      margin-top: 0;
-    }
-    ul {
-      list-style-type: square;
-      padding-left: 1.5rem;
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
+      line-height: 1.6;
     }
     a {
       color: #1e90ff;
@@ -50,15 +25,79 @@
     a:hover {
       text-decoration: underline;
     }
-    .stats img {
-      margin: 1rem 0;
-      max-width: 100%;
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background-color: #1e1e1e;
+      border-radius: 15px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.5);
     }
+    h1, h2 {
+      color: #ffffff;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+    }
+    h2 {
+      margin-bottom: 1rem;
+      border-bottom: 2px solid #1e90ff;
+      padding-bottom: 0.3rem;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 3rem 1rem;
+      background-color: #000000;
+    }
+    .profile-pic {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid #1e90ff;
+      margin: 0 auto 1rem;
+      object-fit: cover;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #a0a0a0;
+    }
+
+    /* Projects Cards */
+    .project-card {
+      background-color: #2a2a2a;
+      border-radius: 10px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .project-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 20px rgba(30, 144, 255, 0.5);
+    }
+
+    /* GitHub Stats */
+    .stats img {
+      max-width: 100%;
+      margin: 1rem 0;
+      border-radius: 10px;
+    }
+
+    /* Footer */
     footer {
       text-align: center;
       padding: 1rem;
-      background-color: #1e1e2f;
-      color: #fff;
+      background-color: #000000;
+      color: #888;
       margin-top: 2rem;
     }
   </style>
@@ -66,6 +105,8 @@
 <body>
 
 <header>
+  <!-- Replace src with your image path -->
+  <img src="profile.jpg" alt="Abraham Ashade" class="profile-pic">
   <h1>👋 Hi, I'm Abraham Ashade</h1>
   <p>Computer Science Major | Data Science Concentration | Cybersecurity Enthusiast</p>
 </header>
@@ -93,14 +134,14 @@
 
 <section>
   <h2>📚 Highlighted Projects</h2>
-  <ul>
-    <li>
-      <strong>Mobile App Development Group Project:</strong> Collaborative project designing, coding, and testing a fully functional mobile application with a focus on system requirements and user experience.
-    </li>
-    <li>
-      <strong>Information Systems Course Projects:</strong> Hands-on systems development and analysis, including networking, enterprise systems, decision support, and business IT design.
-    </li>
-  </ul>
+  <div class="project-card">
+    <strong>Mobile App Development Group Project</strong>
+    <p>Collaborative project designing, coding, and testing a fully functional mobile application with focus on system requirements and user experience.</p>
+  </div>
+  <div class="project-card">
+    <strong>Information Systems Course Projects</strong>
+    <p>Hands-on systems development and analysis, including networking, enterprise systems, decision support, and business IT design.</p>
+  </div>
 </section>
 
 <section class="stats">
