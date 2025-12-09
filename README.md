@@ -8,13 +8,10 @@ I’m a second-year **Computer Science student** passionate about building tools
 - 🎓 Sophomore at Elizabeth City State University
 - 💻 Interests: Software Development, Data Science, Cybersecurity
 - ⚡ Quick learner with sharp attention to detail
-- 🤝 Experienced working with teams via Peer Forward, ROTC, SGA, and group projects
-- 🧠 Passionate about applying technology to solve real-world problems
+- 🤝 Experienced working with teams via Peer Forward, ROTC, SGA, and group project.
 
----
-
-## 🛠️ Tech Stack
-**Languages:** Python • Java • HTML • CSS •   
+## 🛠️ Tech Exp
+**Languages:** Python • Java • HTML • CSS  
 **Tools & Technologies:** Git • GitHub • Linux • Bash • VS Code •   
 **Interests:** Machine Learning • Data Visualization • Cybersecurity • Mobile App Development
 
@@ -28,21 +25,11 @@ I’m a second-year **Computer Science student** passionate about building tools
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abr9h9m&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abr9h9m&layout=compact&theme=tokyonight)
-
-*(Replace `USERNAME` with your GitHub username)*
-
----
-
 ## 🌱 Currently Learning
-- Advanced data structures  
+- Networking / Linux 
 - Data science workflows  
-- Secure coding practices  
-- Cloud technologies  
-
----
+- Secure coding practices
+  
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/abraham-ashade-67bb1b230/) • [GitHub](https://github.com/Abr9h9m) • [Email](Ashmark.abra@gmail.com)
