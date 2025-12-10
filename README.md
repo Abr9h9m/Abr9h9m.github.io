@@ -3,13 +3,16 @@
 ![Profile Picture](https://github.com/Abr9h9m/Abr9h9m.github.io/blob/main/Personal%20Updated%20Headshot%20.jpg?raw=true)
 
 ## 🚀 About Me
-I’m a second-year **Computer Science student** that is passionate about building technological tools, solving problems, and creating systems that deliver real life value. I enjoy learning and exploring new things that innovates the world into **clean, scalable, and efficient space**.
+I’m a second-year **Computer Science student** that is passionate about building technological tools and i currently serve as the Vice President for the Student Government Association. I love solving problems, and creating systems that deliver real life value. I enjoy learning and exploring new things that innovates the world into **clean, scalable, and efficient space**.
 
 - 🎓 Sophomore at Elizabeth City State University NC
 - 💻 Interests: Software Development, Data Science, Cybersecurity
 - ⚡ Quick learner with sharp attention to detail
 - 🤝 Experienced working with teams via Peer Forward, ROTC, SGA, and group project.
 - 😎 Multilingaul
+
+## Resume Link 
+ 
 
 ## 🛠️ Tech Exp
 **Languages:** Python • Java • HTML • CSS  
